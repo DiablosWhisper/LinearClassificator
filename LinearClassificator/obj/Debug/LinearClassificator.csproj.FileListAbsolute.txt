@@ -1,0 +1,10 @@
+C:\Users\Gleb\source\repos\LinearClassificator\LinearClassificator\bin\Debug\LinearClassificator.exe.config
+C:\Users\Gleb\source\repos\LinearClassificator\LinearClassificator\bin\Debug\LinearClassificator.exe
+C:\Users\Gleb\source\repos\LinearClassificator\LinearClassificator\bin\Debug\LinearClassificator.pdb
+C:\Users\Gleb\source\repos\LinearClassificator\LinearClassificator\obj\Debug\LinearClassificator.csprojResolveAssemblyReference.cache
+C:\Users\Gleb\source\repos\LinearClassificator\LinearClassificator\obj\Debug\LinearClassificator.Form1.resources
+C:\Users\Gleb\source\repos\LinearClassificator\LinearClassificator\obj\Debug\LinearClassificator.Properties.Resources.resources
+C:\Users\Gleb\source\repos\LinearClassificator\LinearClassificator\obj\Debug\LinearClassificator.csproj.GenerateResource.Cache
+C:\Users\Gleb\source\repos\LinearClassificator\LinearClassificator\obj\Debug\LinearClassificator.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\source\repos\LinearClassificator\LinearClassificator\obj\Debug\LinearClassificator.exe
+C:\Users\Gleb\source\repos\LinearClassificator\LinearClassificator\obj\Debug\LinearClassificator.pdb
